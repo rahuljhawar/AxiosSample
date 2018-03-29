@@ -16,3 +16,8 @@ Setting up
 7)Run react-native run-android(Make sure the android emulator is running)
 
 For more reference-https://facebook.github.io/react-native/docs/getting-started.html
+
+
+###ScreenShot-
+
+![alt text](screenshots/axios.png)
