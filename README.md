@@ -20,4 +20,4 @@ For more reference-https://facebook.github.io/react-native/docs/getting-started.
 
 ###ScreenShot-
 
-![alt text](screenshot/axios.png)
+![alt text](screenshot/axios.png "ScreenShot")
