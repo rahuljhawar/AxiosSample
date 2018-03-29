@@ -18,6 +18,4 @@ Setting up
 For more reference-https://facebook.github.io/react-native/docs/getting-started.html
 
 
-###ScreenShot-
 
-![alt text](screenshot/axios.png "ScreenShot")
